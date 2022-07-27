@@ -1,0 +1,27 @@
+.bg-img1 {
+  width: 1400px;
+  height: 450px;
+  background-size: cover;
+  margin-left: -125px;
+}
+
+.bg-img2 {
+  width: 1400px;
+  height: 450px;
+  background-size: cover;
+  margin-left: -125px;
+}
+
+.bg-img3 {
+  width: 1400px;
+  height: 450px;
+  background-size: cover;
+  margin-left: -125px;
+}
+.distance {
+  padding: 30px;
+  margin-top: 70px;
+}
+footer .container {
+  width: 100%;
+}
